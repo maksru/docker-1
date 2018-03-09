@@ -1,0 +1,2 @@
+Команда для получения ip адреса.
+docker-machine ip Char

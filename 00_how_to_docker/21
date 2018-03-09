@@ -1,0 +1,2 @@
+Создание нового образа.
+docker-machine create --driver virtualbox Aiur

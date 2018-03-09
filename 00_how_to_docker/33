@@ -1,0 +1,2 @@
+Удаление всех образов.
+docker rmi -f $(docker images -q)

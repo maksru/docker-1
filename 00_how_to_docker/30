@@ -1,0 +1,2 @@
+Создание копий службы marines.
+docker service scale marines=20

@@ -1,0 +1,2 @@
+Поиск контейнера.
+docker search hello-world

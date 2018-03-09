@@ -1,0 +1,2 @@
+Запуск контейнера из образа.
+docker run hello-world

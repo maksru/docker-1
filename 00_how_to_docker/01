@@ -1,0 +1,2 @@
+Создание свой собственный образа(images) наследуемся от VM VirtualBox.
+docker-machine create --driver virtualbox Char

@@ -1,0 +1,2 @@
+Перезапуск контейнера.
+docker restart overlord

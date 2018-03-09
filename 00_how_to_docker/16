@@ -1,0 +1,2 @@
+Журнал контейнера в реальном времени.
+docker logs --follow spawning-pool

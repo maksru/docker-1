@@ -1,0 +1,2 @@
+Запусщеные задачи службы marines.
+docker service ps marines

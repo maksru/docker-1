@@ -1,0 +1,2 @@
+Создание локального swarm, где главным есть Char.
+docker swarm init --advertise-addr $(docker-machine ip Char):2377

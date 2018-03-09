@@ -1,0 +1,5 @@
+Установка утилит debian.
+apt-get update
+apt-get upgrade
+apt-get install gcc
+apt-get install git

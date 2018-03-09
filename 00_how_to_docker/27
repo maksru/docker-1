@@ -1,0 +1,2 @@
+Журнал службы.
+docker service logs engineering-bay
